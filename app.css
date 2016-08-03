@@ -1,0 +1,91 @@
+/* app css stylesheet */
+
+body {
+  font-family: Helvetica;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAYSURBVChTY6AW+A+lcQKCCgiCQW4FAwMAYRcF+/9jf+YAAAAASUVORK5CYII=) repeat;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 'Contrail One', cursive;
+  text-align: center;
+  margin-top: -10px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: white;
+  background-image: url("img/car-banner.jpg");
+  background-position: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-family: 'Contrail One', cursive;
+  padding: 20px;
+  color: white;
+  background-color: #989898;
+}
+
+p {
+  background-color: white;
+}
+
+.details {
+  background-color: white;
+}
+
+.textDet {
+  padding: 20px;
+}
+
+button {
+	background-color: white;
+	border: 1px solid grey;
+	width: 150px;
+	padding: 5px;
+	-webkit-transition: all 150ms ease;
+	transition: all 150ms ease;
+}
+
+button:hover, button:focus
+{
+    background-color: grey;
+    color: white;
+}
+
+button:active
+{
+    background-color: white;
+}
+
+.intro {
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.descrip {
+  font-weight: bold;
+}
+
+#searchBox {
+  padding: 20px;
+  background-color: white;
+}
+
+.carsList li {
+  list-style: none;
+  padding: 5px;
+
+}
+
+.carsList {
+  background-color: white;
+}
+
+.carousel-inner > .item > img,
+
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
