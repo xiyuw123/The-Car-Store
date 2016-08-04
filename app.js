@@ -12,6 +12,8 @@ app.controller('myCtrl', function myCtrl($scope) {
     $scope.currCar = orderNum - 1;
   };
 
+  $scope.cars = carsList;
+/*
   $scope.cars = [
     {
       "orderNumber": 1,
@@ -195,6 +197,6 @@ app.controller('myCtrl', function myCtrl($scope) {
       ]
     }
   ];
-
+*/
 });
 
