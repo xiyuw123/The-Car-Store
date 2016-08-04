@@ -1,0 +1,695 @@
+{
+  "cars": [
+    {
+      "orderNumber": 1,
+
+      "id": "BMW1",
+
+      "car": {
+        "make": "BMW",
+        "model": "M235i"
+      },
+
+      "name": "BMW M235i",
+
+      "year": "2016",
+
+      "EPAClassification": "Subcompact Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "rear- or 4-wheel-drive",
+        "passengers": "4-passenger",
+        "doors": "2-door coupe"
+      },
+
+      "engineType": {
+        "engineInfo": "turbocharged and intercooled DOHC 24-valve",
+        "liters": "3.0-liter inline-6",
+        "hp": "320 hp",
+        "lb-ft": "330 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "8-speed automatic with manual shifting mode"
+      },
+
+      "curbWeight": "3500-3650 lb",
+
+      "EPA": {
+        "City": "19-20 mpg",
+        "HWY": "28-31 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$45,145-$47,145",
+        "MSRP": "$33,845",
+        "lease": "$517/mo"
+
+      },
+
+      "warranty": {
+        "basic": "4 Years/ 50,000 Miles",
+        "drivetrain": "4 Year/ 50,000 Miles",
+        "Corrosion": "12 Years/Unlimited Miles",
+        "roadsideAssistance": "4 Years/Unlimited Miles",
+        "maintenance": "3 Years/36,000 Miles"
+      },
+
+      "assemblyPlant": "Leipzig, Germany",
+
+      "description": "To sort out the “how” of the BMW M235i’s construction, one must start roughly 30 million years ago, when the African continental plate started its eons-long rumble with the Eurasian plate, squeezing the Alps up out of the earth. Fortuitously, a century ago, an aero-engine factory set up shop in Munich, at the foot of the Bavarian swath of these mountains, whereupon it started building motorcycles and later moved to automobiles. ",
+
+      "images": [
+        "img/cars/BMW-1.1.jpg",
+        "img/cars/BMW-1.2.jpg",
+        "img/cars/BMW-1.3.jpg",
+        "img/cars/BMW-1.4.jpg",
+        "img/cars/BMW-1.5.jpg"
+      ]
+    },
+    {
+      "orderNumber": 2,
+
+      "id": "CAD2",
+
+      "car": {
+        "make": "Cadillac",
+        "model": "CTS VSport"
+      },
+
+      "name": "Cadillac CTS VSport",
+
+      "year": "2016",
+
+      "EPAClassification": "Subcompact Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "rear-wheel-drive",
+        "passengers": "5-passenger",
+        "doors": "4-door sedan"
+      },
+
+      "engineType": {
+        "engineInfo": "twin-turbocharged and intercooled DOHC 24-valve",
+        "liters": "3.6-liter V-6",
+        "hp": "420 hp",
+        "lb-ft": "430 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "8-speed automatic with manual shifting mode"
+      },
+
+      "curbWeight": "3950 lb",
+
+      "EPA": {
+        "City": "16 mpg",
+        "HWY": "24 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$60,950",
+        "MSRP": "$33,845",
+        "lease": "$517/mo"
+
+      },
+
+      "warranty": {
+        "basic": "4 Years/ 50,000 Miles",
+        "drivetrain": "4 Year/ 50,000 Miles",
+        "Corrosion": "12 Years/Unlimited Miles",
+        "roadsideAssistance": "4 Years/Unlimited Miles",
+        "maintenance": "3 Years/36,000 Miles"
+      },
+
+      "assemblyPlant": "Lansing, Michigan",
+
+      "description": "When we heard Cadillac Alpha-platform chief Tony Roma talking about some of his team moonlighting behind the wheels of their own race cars, we thought it might be fun to meet a few of them. Wary of the flack-favorite “our-guys-are-car-guys-because-they-own-cars” stunt, which is both overused and often overblown, and expecting just a handful of engineers to show up, we asked Cadillac if we might be able to set up a track day. When that Friday afternoon came, enough ­racers had RSVP’d that we could have filled a grid. ",
+
+      "images": [
+        "img/cars/CAD-2.1.jpg",
+        "img/cars/CAD-2.2.jpg",
+        "img/cars/CAD-2.3.jpg"
+      ]
+    },
+    {
+      "orderNumber": 3,
+
+      "id": "CAM3",
+
+      "car": {
+        "make": "Chevrolet",
+        "model": "Camaro"
+      },
+
+      "name": "Chevrolet Camaro",
+
+      "year": "2016",
+
+      "EPAClassification": "Compact Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "rear-wheel-drive",
+        "passengers": "4-passenger",
+        "doors": "2-door coupe"
+      },
+
+      "engineType": {
+        "engineInfo": "16-valve pushrod",
+        "liters": "6.2-liter V-8",
+        "hp": "455 hp",
+        "lb-ft": "455 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "8-speed automatic with manual shifting mode"
+      },
+
+      "curbWeight": "3600-3760 lb",
+
+      "EPA": {
+        "City": "16-18 mpg",
+        "HWY": "25-29 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$28,490-$37,295",
+        "MSRP": "$27,300",
+        "lease": "$455/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "3 Years/ 36,000 Miles",
+        "roadsideAssistance": "5 Years/60,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Lansing, Michigan",
+
+      "description": "Proving grounds are the ultimate automotive amusement parks, with circles and ovals for high-speed testing and vast black lakes—huge parking lots without light poles or concrete logs—for testing at-the-limit and way-beyond-the-limit roadholding. Proving grounds also contain less-exciting stuff such as salt baths, heat-soak sheds, and miles of intentionally crappy pavement for tuning suspensions and exposing weaknesses. This is where automakers hone their wares and, more important, find their voices and define their identities ",
+
+      "images": [
+        "img/cars/CAM-3.1.jpg",
+        "img/cars/CAM-3.2.jpg",
+        "img/cars/CAM-3.3.jpg",
+        "img/cars/CAM-3.4.jpg"
+      ]
+    },
+    {
+      "orderNumber": 4,
+
+      "id": "FOR-4",
+
+      "car": {
+        "make": "Ford",
+        "model": "Mustang Shelby GT350/GT350R"
+      },
+
+      "name": "Ford Mustang Shelby GT350/GT350R",
+
+      "year": "2016",
+
+      "EPAClassification": "Subcompact Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "rear-wheel-drive",
+        "passengers": "2- or 4-passenger",
+        "doors": "2-door coupe"
+      },
+
+      "engineType": {
+        "engineInfo": "DOHC 32-valve",
+        "liters": "5.2-liter V-8",
+        "hp": "526 hp",
+        "lb-ft": "455 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "8-speed automatic with manual shifting mode"
+      },
+
+      "curbWeight": "3700-3800 lb",
+
+      "EPA": {
+        "City": "14 mpg",
+        "HWY": "21 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$49,995-$63,495",
+        "MSRP": "$55,195",
+        "lease": "$913/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "3 Years/ 36,000 Miles",
+        "roadsideAssistance": "5 Years/60,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Flat Rock, Michigan",
+
+      "description": "It starts with the crankshaft. In most cars, the crank is just a chunk of cast iron spinning away in the block. In the Shelby GT350, though, the crank is the soul of the machine. It’s steel that’s forged and gun-drilled down its centerline to shave mass and relieve crankcase pressure. To that esti­mable piece of metal are attached eight connecting rods, the four crank throws spaced at 180-degree intervals instead of the traditional 90. This is more profoundly important than it might sound.",
+
+      "images": [
+        "img/cars/FOR-4.1.jpg",
+        "img/cars/FOR-4.2.jpg",
+        "img/cars/FOR-4.3.jpg",
+        "img/cars/FOR-4.4.jpg",
+        "img/cars/FOR-4.5.jpg"
+      ]
+    },
+    {
+      "orderNumber": 5,
+
+      "id": "HON-5",
+
+      "car": {
+        "make": "Honda",
+        "model": "Accord"
+      },
+
+      "name": "Honda Accord",
+
+      "year": "2016",
+
+      "EPAClassification": "Mid-Size Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "front-wheel-drive",
+        "passengers": "5-passenger",
+        "doors": "2-door coupe or 4-door sedan"
+      },
+
+      "engineType": {
+        "engineInfo": "twin-turbocharged and intercooled DOHC 24-valve",
+        "liters": "3.6-liter V-6",
+        "hp": "420 hp",
+        "lb-ft": "252 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "6-speed automatic with manual shifting mode, continuously variable automatic"
+      },
+
+      "curbWeight": "3200-3600 lb",
+
+      "EPA": {
+        "City": "18-27 mpg",
+        "HWY": "28-37 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$22,925-$35,400",
+        "MSRP": "$23,195",
+        "lease": "$382/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "3 Years/ Unlimited Miles",
+        "roadsideAssistance": "3 Years/36,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Marysville, Ohio",
+
+      "description": "Querying any of the 4250 workers at Honda’s Marysville, Ohio, assembly plant about what makes the Accord such a great car is akin to asking a parent why their child is special. They show no shame in taking credit. You are not likely to hear much said here about the Accord’s tremendous value, its packaging, or its ­sublime combination of ride and handling. Those are the kinds of things we say about the Accord. At Marysville, they talk about pride and tradition and brothers and sisters and family, the words tumbling forth with a fervor usually reserved for Ohio State football.",
+
+      "images": [
+        "img/cars/HON-5.1.jpg",
+        "img/cars/HON-5.2.jpg",
+        "img/cars/HON-5.3.jpg",
+        "img/cars/HON-5.4.jpg"
+      ]
+    },
+    {
+      "orderNumber": 6,
+
+      "id": "MAZ-6",
+
+      "car": {
+        "make": "Mazda",
+        "model": "MX-5 Miata"
+      },
+
+      "name": "Mazda MX-5 Miata",
+
+      "year": "2016",
+
+      "EPAClassification": "Two-Seater Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "rear-wheel-drive",
+        "passengers": "2-passenger",
+        "doors": "2-door coupe convertible"
+      },
+
+      "engineType": {
+        "engineInfo": "DOHC 16-valve",
+        "liters": "2.0-liter Atkinson-capable inline-4",
+        "hp": "155 hp",
+        "lb-ft": "148 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "6-speed automatic with manual shifting mode"
+      },
+
+      "curbWeight": "2300-2350 lb",
+
+      "EPA": {
+        "City": "27 mpg",
+        "HWY": "34-36 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$25,735-$31,185",
+        "MSRP": "$25,750",
+        "lease": "$410/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "5 Years/ Unlimited Miles",
+        "roadsideAssistance": "3 Years/36,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Hiroshima, Japan",
+
+      "description": "There’s a new Miata parked outside, exhaust ticking. It’s the afterglow of a run up and down Angeles Crest Highway north of L.A., the City of Angels and the City of Miatas. If the car feels as if it were created for these roads, that’s because its engineering sign-off happened here. Every brake application, throttle blip, snap downshift, and slalom toward the apex is an invocation of joy. The Miata strings together corners like they’re rosary beads. You might be tired at the end, but it’ll be a happy kind of exhaustion.",
+
+      "images": [
+        "img/cars/MAZ-6.1.jpg",
+        "img/cars/MAZ-6.2.jpg",
+        "img/cars/MAZ-6.3.jpg",
+        "img/cars/MAZ-6.4.jpg"
+      ]
+    },
+    {
+      "orderNumber": 7,
+
+      "id": "MAZ-7",
+
+      "car": {
+        "make": "Mazda",
+        "model": "3"
+      },
+
+      "name": "Mazda 3",
+
+      "year": "2016",
+
+      "EPAClassification": "Compact Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "front-wheel-drive",
+        "passengers": "5-passenger",
+        "doors": "4-door sedan or hatchback"
+      },
+
+      "engineType": {
+        "engineInfo": "DOHC 16-valve",
+        "liters": "2.0-liter Atkinson-capable inline-4",
+        "hp": "155 hp",
+        "lb-ft": "150 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "6-speed automatic"
+      },
+
+      "curbWeight": "2850-3100 lb",
+
+      "EPA": {
+        "City": "25-30 mpg",
+        "HWY": "35-41 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$18,665-$26,265",
+        "MSRP": "$19,380",
+        "lease": "$354/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "5 Years/ Unlimited Miles",
+        "roadsideAssistance": "3 Years/36,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Hofu, Japan",
+
+      "description": "If you were to stroll through the Mazda 3 assembly plant in Hofu, Japan, it wouldn’t be unusual to find a bamboo-and-paper shoji door in an engineer’s locker. “It opens and slides without much effort,” explains Hirotaka Takaya, doors development engineer. Nor should you be surprised to find a drawing of the anatomy of a human arm. “We determined which muscles are used to operate [the shift lever],” explains Takao Kijima, former MX-5 Miata program manager, “to balance the amount of strength needed.” Kijima further suggests, “When the car and driver are in harmony, driving is fun.”",
+
+      "images": [
+        "img/cars/MAZ-7.1.jpg",
+        "img/cars/MAZ-7.2.jpg",
+        "img/cars/MAZ-7.3.jpg",
+        "img/cars/MAZ-7.4.jpg"
+      ]
+    },
+    {
+      "orderNumber": 8,
+
+      "id": "POR-8",
+
+      "car": {
+        "make": "Porsche",
+        "model": "Boxster and Cayman"
+      },
+
+      "name": "Porsche Boxster and Cayman",
+
+      "year": "2016",
+
+      "EPAClassification": "Two-Seater Cars",
+
+      "vehicleType": {
+        "engine": "mid-engine",
+        "drive": "rear-wheel-drive",
+        "passengers": "2-passenger",
+        "doors": "2-door coupe or convertible"
+      },
+
+      "engineType": {
+        "engineInfo": "DOHC 24-valve",
+        "liters": "2.7-liter flat-six",
+        "hp": "265 or 275 hp",
+        "lb-ft": "207 or 213 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "6-speed manual",
+        "auto": "7-speed dual-clutch automatic with manual shifting mode"
+      },
+
+      "curbWeight": "3050-3150 lb",
+
+      "EPA": {
+        "City": "19-22 mpg",
+        "HWY": "26-32 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$53,095-$76,195",
+        "MSRP": "$53,650",
+        "lease": "$804/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "5 Years/ Unlimited Miles",
+        "roadsideAssistance": "3 Years/36,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Zuffenhausen, Germany",
+
+      "description": "From the vantage point of nearly 20 years, it’s apparent that this little car, born in open-top Boxster form, rescued the company. It was no mere entry-level Porsche, no unter-911; it may have been co-developed with the 996 to save money, but it emerged as something wholly unto itself. The original Boxster was a high-proof distillation of the company’s history and point of view, and its excellence elevated the brand at a time when the economic waters were up to Porsche’s chest.",
+
+      "images": [
+        "img/cars/POR-8.1.jpg",
+        "img/cars/POR-8.2.jpg",
+        "img/cars/POR-8.3.jpg",
+        "img/cars/POR-8.4.jpg"
+      ]
+    },
+    {
+      "orderNumber": 9,
+
+      "id": "TES-9",
+
+      "car": {
+        "make": "Tesla",
+        "model": "S70/70D"
+      },
+
+      "name": "Tesla S70/70D",
+
+      "year": "2016",
+
+      "EPAClassification": "Large Cars",
+
+      "vehicleType": {
+        "engine": "rear- or front-and-rear-motor",
+        "drive": "rear- or 4-wheel-drive",
+        "passengers": "5- or 7-passenger",
+        "doors": "4- or 5-door hatchback"
+      },
+
+      "engineType": {
+        "engineInfo": "AC induction",
+        "liters": "2 AC induction",
+        "hp": "315 hp",
+        "lb-ft": "325 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "1-speed direct drive",
+        "auto": "1-speed direct drive"
+      },
+
+      "curbWeight": "4400-4600 lb",
+
+      "EPA": {
+        "City": "88-101 mpg",
+        "HWY": "90-102 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$71,200-$76,200",
+        "MSRP": "$72,700",
+        "lease": "N/A"
+
+      },
+
+      "warranty": {
+        "basic": "4 Years/ 50,000 Miles",
+        "drivetrain": "8 Year/ Unlimited Miles",
+        "Corrosion": "8 Years/ Unlimited Miles",
+        "roadsideAssistance": "4 Years/50,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Fremont, California",
+
+      "description": "Forget for a moment that the Tesla Model S’s fuel tank is an aluminum box packed with thousands of battery cells. Ignore the electric motors and Elon Musk’s Captain Planet sermons. Really, just try to wipe what you know about the car from your mind. Even in this context, the Model S still points a spotlight on the auto industry’s complacency.",
+
+      "images": [
+        "img/cars/TES-9.1.jpg",
+        "img/cars/TES-9.2.jpg",
+        "img/cars/TES-9.3.jpg",
+        "img/cars/TES-9.4.jpg"
+      ]
+    },
+    {
+      "orderNumber": 10,
+
+      "id": "VOL-10",
+
+      "car": {
+        "make": "Volkswagen",
+        "model": "Golf/GTI/Golf R"
+      },
+
+      "name": "Volkswagen Golf/GTI/Golf R",
+
+      "year": "2016",
+
+      "EPAClassification": "Compact Cars",
+
+      "vehicleType": {
+        "engine": "front-engine",
+        "drive": "front- or 4-wheel-drive",
+        "passengers": "5-passenger",
+        "doors": "2- or 4-door hatchback"
+      },
+
+      "engineType": {
+        "engineInfo": "turbocharged and intercooled DOHC 16-valve",
+        "liters": "1.8-liter inline-4",
+        "hp": "170 hp",
+        "lb-ft": "199 lb-ft"
+      },
+
+      "transmission": {
+        "manual": "5-speed manual, 6-speed manual",
+        "auto": "6-speed automatic with manual shifting mode"
+      },
+
+      "curbWeight": "2900-3350 lb",
+
+      "EPA": {
+        "City": "22-25 mpg",
+        "HWY": "30-37 mpg"
+
+      },
+
+      "price": {
+        "basePrice": "$19,315-$36,470",
+        "MSRP": "$20,995",
+        "lease": "$337/mo"
+
+      },
+
+      "warranty": {
+        "basic": "3 Years/ 36,000 Miles",
+        "drivetrain": "5 Year/ 60,000 Miles",
+        "Corrosion": "12 Years/ Unlimited Miles",
+        "roadsideAssistance": "3 Years/36,000 Miles",
+        "maintenance": "3 Years/24,000 Miles"
+      },
+
+      "assemblyPlant": "Puebla, Mexico",
+
+      "description": "It is easier to forgive an enemy than a friend. We understand if the inclusion of the Volks­wagen Golf in this year’s 10Best, its 10th in a row, causes surprise, incredulity, or even the sort of sputtering indignation normally only displayed by raging lieutenants in buddy-cop movies. We fully acknowledge that this is a controversial decision and the mailroom is on standby and all vacation for our Backfires team has been canceled. But it is nevertheless the right one.",
+
+      "images": [
+        "img/cars/VOL-10.1.jpg",
+        "img/cars/VOL-10.2.jpg",
+        "img/cars/VOL-10.3.jpg",
+        "img/cars/VOL-10.4.jpg"
+      ]
+    }
+  ]
+}
